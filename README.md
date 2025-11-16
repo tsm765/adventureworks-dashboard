@@ -2,9 +2,9 @@
 Power BI AdventureWorks dashboard: revenue, profit, orders, customers, returns, and geospatial sales analysis.
 Built as a portfolio project to demonstrate data modeling, DAX, and business analytics skills.
 
-**Key Dashboard Pages**
+### **Key Dashboard Pages**
 
-**1. Executive Dashboard**
+### **1. Executive Dashboard**
 Provides a high-level view of business performance. Includes the following: 
 KPI cards, Weekly Revenue trends, Orders by Product Category (Accessories, Bikes, Clothing), Top 10 products with conditional formatting, Monthly stats.
 
